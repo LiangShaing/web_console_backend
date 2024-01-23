@@ -1,3 +1,6 @@
 
-target/web_console_backend-0.0.1-SNAPSHOT.jar.original
-*.jar
+target/*
+.idea
+target/surefire-reports/TEST-com.example.web_console_backend.WebConsoleBackendMavenWebappApplicationTests.xml
+target/surefire-reports/com.example.web_console_backend.WebConsoleBackendMavenWebappApplicationTests.txt
+target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
